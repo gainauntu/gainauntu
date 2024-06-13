@@ -9,17 +9,17 @@
 
 - 🔭 I’m currently working on [Autonomous Water Drone Navigation System](https://fluton.co.kr/hwsd-m1)
 
-- 🌱 I’m currently learning **KOTLIN, QT**
+- 🌱 I’m currently learning **QT**
 
 - 👯 I’m looking to collaborate on **Embedded System Programming**
 
-- 🤝 I’m looking for help with **Computer Vision Algorithm**
+- 🤝 I’m looking for help with **Computer Vision Machine Learning Algorithm Projects**
 
 - 💬 Ask me about **Embedded System Firmware Programming**
 
 - 📫 How to reach me **gainauntu@gmail.com**
 
-- 📄 Know about my experiences [https://tricolor-handsaw-5de.notion.site/GAIN-AUNTU-b175f01d76594e14b28cb296fefd19d3](https://tricolor-handsaw-5de.notion.site/GAIN-AUNTU-b175f01d76594e14b28cb296fefd19d3)
+- 📄 Know about my experiences here [Korean](gainauntu.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
