@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **gainauntu@gmail.com**
 
-- 📄 Know about my experiences here [Korean](gainauntu.github.io)
+- 📄 Know about my experiences here [gainauntu.github.io](gainauntu.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
